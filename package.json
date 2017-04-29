@@ -1,0 +1,24 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "\"# Request-header-parser\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenxinNiu/Request-header-parser.git"
+  },
+  "author": "Benxin Niu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenxinNiu/Request-header-parser/issues"
+  },
+  "homepage": "https://github.com/BenxinNiu/Request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "ip": "^1.1.5",
+    "os": "^0.1.1"
+  }
+}
